@@ -1,0 +1,65 @@
+h1 {
+   background-color: rgba(44, 42, 42, 0.071);
+   padding: 50px;
+   color: rgb(56, 52, 52);
+   font-family: sans-serif;
+   font-size: 50px;
+   letter-spacing: 10px;
+   text-align: left;
+   text-orientation: upright;
+   font-weight: 5;
+}
+span {
+    font-weight: 10;
+    letter-spacing: 18px;
+}
+body {
+    background-image: url(images/th\ \(2\).jfif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img {
+    float: right;
+    border-radius: 300px;
+    border: solid 5px;
+    height: 300px;
+    width: 300px;
+    border-color: aliceblue;
+    margin-top: 20px;
+    margin-right: -18px;
+}
+hr {
+        display: block;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+        margin-left: auto;
+        margin-right: auto;
+        border-style: inset;
+        border-width: 2px;
+        background-color: rgb(49, 45, 45);
+        color: rgb(44, 39, 39);
+        position: relative;
+      }
+legend {
+       font-family: sans-serif;
+       color: rgb(45, 42, 42);
+       font-size: 20px;
+       font-weight: bold;
+      }
+fieldset {
+    background-color: rgba(0, 0, 0, 0.014);
+    border-width: 5px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+p {
+    margin-bottom: 20px;
+    letter-spacing: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(44, 42, 42);
+    font-size: large;
+}
+      
